@@ -1,4 +1,3 @@
-word
 test
 # Chapter 1 Exercises
 
