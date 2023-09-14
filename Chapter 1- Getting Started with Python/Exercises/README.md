@@ -1,5 +1,5 @@
 
-text
+python
 
 # Chapter 1 Exercises
 
