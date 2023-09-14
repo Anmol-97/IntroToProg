@@ -1,4 +1,4 @@
-hello
+word
 
 # Chapter 1 Exercises
 
